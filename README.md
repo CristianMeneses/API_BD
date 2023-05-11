@@ -7,7 +7,8 @@ Instrucciónes:
 4. Una vez que el servidor esté en ejecución, dirigirse al localhost (https://localhost:8000)
 5. Aparecerán tres enlaces para manipular las distintas tablas; usuario, empresa y proyecto
 6. Adentro de la vista, llenar los campos y cliquear en post para insertar un registro o dar clic en get para realizar la consulta de todos los registros existentes
-7. 
+
+Se anexan vistas principales
 Vista principal:
 ![Vista Principal](https://github.com/CristianMeneses/API_BD/assets/49161094/545b4f57-39d9-4440-afbc-039ccb3af65d)
 Creación Usuario:
